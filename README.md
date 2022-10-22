@@ -27,7 +27,11 @@ Here is my GitHub Profile: [pargasparedes](https://github.com/pargasparedes)
 
 ### Here are some screenshots of the application:
 
+#### Create Friend
 ![Create Friend](./assets/create-friend.png)
+#### Get Thought by ID
 ![Get Thought by ID](./assets/get-thought-id.png)
+#### Delete User
 ![Delete User](./assets/delete-user.png)
+#### Update Thought
 ![Update Thought](./assets/update-thought.png)
